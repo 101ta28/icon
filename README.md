@@ -4,4 +4,4 @@
 
 ![101ta28 icon](./ti_400.png)
 
-![101ta28 icon blue](./ti_blue.png)
+![101ta28 icon blue](./ti_blue_400.png)
